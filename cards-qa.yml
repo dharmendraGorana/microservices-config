@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Microservices Cards related QA APIs "
+  contactDetails:
+    name: "Gauri - QA Lead"
+    email: "gauri@gmail.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
