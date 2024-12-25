@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Hey, welcome to Microservices accounts related webhook APIs"
   contactDetails:
-    name: "Dharmendra Gorana - Product Owner"
+    name: "Dharmendra Gorana1 - Product Owner"
     email: "dharmendra@gmail.coms"
   onCallSupport:
     - (453) 392-4829
